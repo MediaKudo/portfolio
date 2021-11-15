@@ -1,0 +1,6 @@
+<svg id="visual" viewBox="0 0 900 600" width="900" height="600" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+     <path d="M575 600L818 0L900 0L900 600Z" fill="#119572"></path>
+     <path d="M368 600L332 0L819 0L576 600Z" fill="#90cab9"></path>
+     <path d="M0 600L0 0L333 0L369 600Z" fill="#f7fffd"></path>
+</svg>
